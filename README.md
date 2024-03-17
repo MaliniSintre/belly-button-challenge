@@ -14,4 +14,4 @@ The otu_labels are displayed when you hovertext for the bubble chart.
 
 The demographic information panel updates whenever a new Subject ID is selected.
 
-https://github.com/MaliniSintre/belly-button-challenge/blob/main/Screenshot_bar%20and%20bubble%20chart.png
+![Screenshot 1](https://github.com/MaliniSintre/belly-button-challenge/blob/main/Screenshot_bar%20and%20bubble%20chart.png)
